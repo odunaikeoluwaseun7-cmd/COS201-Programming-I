@@ -1,10 +1,10 @@
 # COS201-Programming-I
 
 ## Student information
-Name:Odunaike Oluwaseun Anuoluwapo
-Programme: cyber security
-Matric number:25/18904
-Course code: cos201
+- Name:Odunaike Oluwaseun Anuoluwapo
+- Programme: cyber security
+- Matric number:25/18904
+- Course code: cos201
 
 ## course
 Cos 201 - Computer programming I
